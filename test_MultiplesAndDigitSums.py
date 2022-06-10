@@ -58,7 +58,13 @@ def test_FortyNine():
     assert main(param) == 30
 
 
+def test_Hundred():
+    """100 should return 1"""
+    param = 100
+    assert main(param) == 1
+
+
 def test_Zero():
     """0 should return 0"""
     param = 0
-    assert main(param) == 0
+    assert main(0) == 0

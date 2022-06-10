@@ -7,7 +7,7 @@
   - must have input, must be integer
   - 0 <= integer <= 100
 
-🔴
+🔴🟢
 
 
 

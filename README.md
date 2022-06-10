@@ -1,6 +1,6 @@
 # Exercise: MultiplesAndDigitSums
 
-|[![LintAndTest](https://github.com/mici-que/MultiplesAndDigitSums/actions/workflows/lint_and_test.yml/badge.svg)](https://github.com/mici-que/MultiplesAndDigitSums/actions/workflows/lint_and_test.yml)||
+[![LintAndTest](https://github.com/mici-que/MultiplesAndDigitSums/actions/workflows/lint_and_test.yml/badge.svg)](https://github.com/mici-que/MultiplesAndDigitSums/actions/workflows/lint_and_test.yml)
 
 
 https://www.codewars.com/kata/58ca77b9c0d640ecd2000b1e

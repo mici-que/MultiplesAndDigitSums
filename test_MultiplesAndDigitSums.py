@@ -35,3 +35,30 @@ def test_CorrectInput():
     """Input is correct, expecting integer return value"""
     param = 10
     assert isinstance(main(param), int) == True
+
+
+# 2 CALCULATION
+
+
+def test_Thirty():
+    """30 should return 18"""
+    param = 30
+    assert main(param) == 18
+
+
+def test_Twelve():
+    """12 should return 72"""
+    param = 12
+    assert main(param) == 72
+
+
+def test_FortyNine():
+    """49 should return 30"""
+    param = 49
+    assert main(param) == 30
+
+
+def test_Zero():
+    """0 should return 0"""
+    param = 0
+    assert main(param) == 0

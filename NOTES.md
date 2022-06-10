@@ -9,6 +9,12 @@
 
 🔴🟢♻️
 
+## 2 CALCULATION
+- collect multiples in list
+- replace multiples with their digit sum in list
+- return sum of list
+
+🔴
 
 
 ***

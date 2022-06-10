@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "process",
+            "label": "terminal",
+            //"command": "C:\Program Files\Git\git-bash.exe",
+            "command": "echo ${command:workbench.action.terminal.new}",
+            "args": [
+                "-l"
+            ],
+            "problemMatcher": [],
+            "presentation": {
+                "echo": false,
+                "focus": true,
+                "group": "build",
+                "panel": "dedicated"
+            },
+            "runOptions": {
+                "runOn": "folderOpen"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

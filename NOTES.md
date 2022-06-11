@@ -14,7 +14,7 @@
 - replace multiples with their digit sum in list
 - return sum of list
 
-🔴🟢
+🔴🟢♻️
 
 
 ***
